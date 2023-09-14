@@ -1,7 +1,7 @@
 package smicro
 
 import (
-	"cac-micro/config/apollo"
+	"github.com/Qsr9504/cac-micro/config/apollo"
 )
 
 type Cmd struct {
